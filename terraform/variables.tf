@@ -19,3 +19,8 @@ variable "zone_name" {
   default = "anuprasad.online"
 }
 
+# created this as part of jenkins CD
+variable "app_version" {
+  
+}
+
